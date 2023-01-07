@@ -1,0 +1,41 @@
+type="text/css"
+
+*{
+width: 100%;
+margin: 200 px;
+padding: 10;
+}
+
+
+body{
+background-color: #E8F6F3;
+}
+.perfil{
+	height: auto;
+	width: 15%;
+	position: relative;
+    top: 100px; 
+    left: 300px;
+	border: 2px solid white;
+	border-radius:  100%;
+	display: block;
+}
+.cabecera{
+	
+	background-color: #567895;
+	background-size: 80%;
+}
+
+h1{
+	text-align: center;
+	color: #11293a;
+}
+
+p {
+	text-align: center;
+	color: black;} 
+ 
+h5{
+	text-align: center;
+	color:#567895;
+}
